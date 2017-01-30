@@ -1,0 +1,10 @@
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\HMSAccess.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\HMSAccess.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\HMSAccess.pdb
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\EntityFramework.dll
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\EntityFramework.xml
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\obj\Debug\HMSAccess.csprojResolveAssemblyReference.cache
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\obj\Debug\HMSAccess.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\HMSAccess\HMSAccess\obj\Debug\HMSAccess.pdb
